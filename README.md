@@ -17,3 +17,6 @@
 [댐유입량,강우,수위데이터.xlsx](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/879e8e32-1856-46d2-a2bc-29c5806b5c3a/댐유입량강우수위데이터.xlsx)
 
 출처: 환경 빅데이터 플랫폼
+
+### 아래 링크를 통해서 시각화 자료까지 확인하실 수 있습니다.
+https://nbviewer.org/gist/Kimjimin97/1b8ecb6ce6d9571b544cf3ee2e9f28ba
