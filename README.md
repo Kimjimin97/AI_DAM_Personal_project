@@ -3,7 +3,8 @@
 
 ### 2020년 한반도 집중호우
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/bffbaa24-f537-41ab-a51a-f79fcad0de2b/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/67817682/150311679-460cfe12-8280-4aa9-aee1-fdbc73528c30.png)
+
 
  2020년 한반도 집중호우는 2020년 6월 부터 한반도 전역에서 발생한 대규모 폭우이다. 홍수 여파에 따라 사망자 46명의 인명피해와, 이재민 6,946명 재산피해 1조 2,585억원의 피해가 이따랐습니다.
 
@@ -16,13 +17,3 @@
 [댐유입량,강우,수위데이터.xlsx](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/879e8e32-1856-46d2-a2bc-29c5806b5c3a/댐유입량강우수위데이터.xlsx)
 
 출처: 환경 빅데이터 플랫폼
-
-```html
-(iframe src="https://nbviewer.org/github/Kimjimin97/kaggle-titanic/blob/master/07_05_Kimjimin-Copy2.ipynb
-" width="100%" height="3600" scrolling="yes" frameboarder="0")
-(/iframe)
-```
-
-(iframe src=" v
-" width="100%" height="3600" scrolling="yes" frameboarder="0")
-(/iframe)
